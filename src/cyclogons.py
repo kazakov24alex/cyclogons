@@ -90,6 +90,7 @@ fig = plt.figure()
 fig.canvas.set_window_title('Cyclogon')
 global ax
 ax = fig.add_subplot(111)
+ax.set_aspect('equal')
 
 # Adjust the subplots region to leave some space for the sliders and buttons
 fig.subplots_adjust(left=0.25, bottom=0.3)
