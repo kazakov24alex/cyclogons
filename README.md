@@ -10,6 +10,6 @@ Change the coordinates of the ends of a line segment in the code.
 
 ## Example of work
 <p align="center">
-  <img src="https://github.com/kazakov24alex/cyclogons/blob/master/docs/pic2.png" width="400"/>
-  <img src="https://github.com/kazakov24alex/cyclogons/blob/master/docs/pic3.png" width="400"/>
+  <img src="https://github.com/kazakov24alex/cyclogons/blob/master/docs/pic2.png" width="450"/>
+  <img src="https://github.com/kazakov24alex/cyclogons/blob/master/docs/pic3.png" width="450"/>
 </p>
